@@ -6,3 +6,4 @@
 ####  **Answer:** This command brings changes from remote server to working directory
 ###   4) What does git clone command do?
 ####  **Answer:** This command copies and moves the structure
+#### All the questions answered by 11.19 AM.
